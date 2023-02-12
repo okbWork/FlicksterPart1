@@ -53,6 +53,7 @@ class FlicksterMovieAdapter(
         holder.movieOverviewView.text = movie.overview
         Glide.with(holder.mView)
             .load("https://image.tmdb.org/t/p/w500" + movie.posterPath)
+            .placeholder(R.drawable.slim_peter)
             .centerInside()
             .into(holder.moviePosterView)
 
