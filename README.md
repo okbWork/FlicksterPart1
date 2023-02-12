@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/gifs/2pYPWzYwef5RxOEzNE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/2pYPWzYwef5RxOEzNE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://user-images.githubusercontent.com/90221005/218340753-daf5bba2-e5ea-41e3-8c15-ce55faffb64e.png' title='Glide Placeholder' width='' alt='Glide placeholder screenshot' />
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap
